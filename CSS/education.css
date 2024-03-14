@@ -1,0 +1,14 @@
+/* Education-specific CSS */
+
+.Coursework
+{
+    width: 30%;
+}
+
+img
+{
+    border-radius: 5%;
+    float: right;
+    height: 35%;
+    width: 35%;
+}

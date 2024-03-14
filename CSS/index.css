@@ -1,0 +1,11 @@
+/* Index-specific CSS */
+
+section
+{
+    text-align: center;
+}
+
+section div p
+{
+    display: inline-block;
+}

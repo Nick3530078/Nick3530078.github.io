@@ -1,0 +1,122 @@
+/* Page CSS */
+
+html
+{
+    background-color: rgb(20, 20, 20);
+}
+
+body 
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+/* header and nav CSS */
+
+header
+{
+    color: aqua;
+    height: 200px;
+    text-align: center;
+}
+
+nav
+{
+    background-color: black;
+    border-radius: 10px;
+}
+
+nav ul
+{
+    display: inline-flex;
+    list-style-type: none;
+    padding: 0px 10px;
+}
+
+nav ul li
+{
+    padding: 0px 20px;
+}
+
+nav ul li a
+{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+nav ul li a:hover
+{
+    text-decoration: underline;
+}
+
+
+
+/* Body CSS */
+
+h1
+{
+    color: lightblue;
+    text-align: center;
+    text-decoration: underline;
+}
+
+section
+{
+    margin: 100px 5px;
+}
+
+section h2
+{
+    color: lightblue;
+}
+
+section div p
+{
+    color: antiquewhite;
+    width: 50%;
+}
+
+p a
+{
+    color: aquamarine;
+}
+
+/* Image Banner */
+.Images
+{
+    display: inline-flex;
+}
+
+.Images img
+{
+    border-radius: 5%;
+    margin: 0% 2.5%;
+    width: 20%;
+}
+
+/* footer CSS */
+
+footer
+{
+    background-color: black;
+}
+
+footer ul
+{
+    list-style-type: none;
+    padding: 10px;
+    text-align: right;
+}
+
+footer ul li
+{
+    color: lightblue;
+    display: inline-flex;
+    padding: 2.5px 5px;
+}
+
+footer ul li a
+{
+    color: lightblue;
+}

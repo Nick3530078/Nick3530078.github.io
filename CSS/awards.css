@@ -1,0 +1,14 @@
+/* Awards-specific CSS */
+
+section
+{
+    margin: 10px 5px;
+}
+
+img
+{
+    border-radius: 5%;
+    float: right;
+    height: 25%;
+    width: 25%;
+}
